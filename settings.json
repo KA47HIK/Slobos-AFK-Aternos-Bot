@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ka47hik67-6etB.aternos.me",
+    "ip": "Ka47hik67-6etB.aternos.me:40657",
     "port": 40657,
     "version": "",
     "try-creative": false
